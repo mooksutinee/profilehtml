@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sutinee Russameeprom</title>
+</head>
+<body>
+    <h1 style="text-align: center; font-family: system-ui;">Sutinee Russameeprom</h1>     
+    <h2 style="text-align: center; font-family: system-ui;">UX/UI Designer</h2>
+    <h4 style="text-align: center; font-family: system-ui;">"I like various designs that make me happy. So I started learning and improving myself, and now I'm a UX/UI Designer."</h4>
+    <hr>
+    <!-- Menu -->
+    <table style="width: 100%; text-align: center;">
+        <tr>
+            <td>
+                <h2><a href="index.html">Profile</a></h2>
+            </td>
+            <td>
+                <h2><a href="Portfolio.html">Portfolio</a></h2>
+             </td>
+             <td>
+                <h2><a href="Hobby.html">Hobby</a></h2>
+             </td>
+             <td>
+                <h2><a href="Contact.html">Contact</a></h2>
+             </td>
+        </tr>
+    </table>
+    <hr>
+    <table style="width: 100%;">
+        <tr>
+            <td style="width: 33.33%; vertical-align: top;">
+                <h2>About me</h2>
+                <!-- Image -->
+                <img src="images/cat.jpg" alt="mook" style="width: 60%;">
+                <p style="font-weight: normal; text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate</p>
+                <p>Name:</p>
+                <p>Birthday:</p>
+                <p>Contact:</p>
+                <p>
+                    <!-- Social media icons -->
+                    <a href="https://www.youtube.com/watch?v=Os_6c5j6YiQ" class="fa fa-youtube-play" style="font-size: 24px;"></a>
+                </p>
+            </td>
+            
+
+            <td style="width: 33.33%; vertical-align: top;">
+                <h2>Education</h2>
+                <p>Bachelor of Business Administration, Logistics Management<br>University of the Thai Chamber of Commerce</p>
+            </td>
+
+            <td style="width: 33.33%; vertical-align: top;">
+                <h2>Experience</h2>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
+
+
